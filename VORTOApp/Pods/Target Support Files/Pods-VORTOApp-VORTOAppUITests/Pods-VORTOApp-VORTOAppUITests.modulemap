@@ -1,0 +1,6 @@
+framework module Pods_VORTOApp_VORTOAppUITests {
+  umbrella header "Pods-VORTOApp-VORTOAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

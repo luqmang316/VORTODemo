@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (5.2.2)
+  - CDYelpFusionKit (2.1.0):
+    - Alamofire (= 5.2.2)
+    - ObjectMapper (= 4.2.0)
+  - Cosmos (23.0.0)
+  - ObjectMapper (4.2.0)
+  - SDWebImage (5.9.4):
+    - SDWebImage/Core (= 5.9.4)
+  - SDWebImage/Core (5.9.4)
+
+DEPENDENCIES:
+  - CDYelpFusionKit (= 2.1.0)
+  - Cosmos (~> 23.0)
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CDYelpFusionKit
+    - Cosmos
+    - ObjectMapper
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  CDYelpFusionKit: b828e471ab7da62245d834c6cac71f7d35e16b48
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  SDWebImage: b69257f4ab14e9b6a2ef53e910fdf914d8f757c1
+
+PODFILE CHECKSUM: 547a1a889e46c8e49a368a62cb8b3dfc0c438145
+
+COCOAPODS: 1.9.1
